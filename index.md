@@ -28,7 +28,7 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    **Yuankun Xia**, Hui Wang*, and Yufeng Zhou.
    <br>
    **Knowledge-Based Systems** (**KBS**), 2026. 
-   \[[PDF](#)\]
+   \[[PDF](https://yuankunx.github.io/document/FedCLIP-Distill%20Heterogeneous%20federated%20cross-modal%20knowledge%20distillation%20for%20multi-domain%20visual%20recognition.pdf)\]
    
 * **MMC-CS: Multi-branch multi-stage contrastive learning for self-supervised compressed sensing**
    <br>
