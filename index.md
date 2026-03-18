@@ -16,7 +16,11 @@ Please drop me a message by email: <u>yuankunx@zjnu.edu.cn</u>
   <p>
   <ol>
 
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICME' 1]</b></font> Shihao Dong, Xiaotong Zhou, Yuhui Zheng, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>Center-Oriented Prototype Contrastive Clustering</u></i>. <font color="green">ICME 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Center-Oriented Prototype Contrastive Clustering.pdf">[PDF]</a> </li></p>
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IOTJ]</b></font> <b>Yuankun Xia</b>, Hui Wang*, Di Yin, Yiteng Zhang and Qian Huang: <i><u>pFedMLKD: A Novel Framework for Personalized
+Federated Learning via Multilevel Distillation</u></i>. <font color="green">IOTJ 2025</font>. <a href = "https://yuankunx.github.io/document/pFedMLKD A Novel Framework for Personalized Federated Learning via Multilevel Distillation.pdf">[PDF]</a> </li></p>
+
+  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS]</b></font> <b>Yuankun Xia</b>, Hui Wang*, and Yufeng Zhou: <i><u>FedCLIP-Distill: Heterogeneous federated cross-modal knowledge
+distillation for multi-domain visual recognition</u></i>. <font color="green">KBS 2026</font>. <a href = "https://yuankunx.github.io/document/pFedMLKD A Novel Framework for Personalized Federated Learning via Multilevel Distillation.pdf">[PDF]</a> </li></p>
 
 
 </ol>
