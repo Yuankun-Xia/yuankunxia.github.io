@@ -14,7 +14,7 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 ---
 
 ## News
-* **[2026.03]** One paper on cross-modal knowledge distillation was accepted by *Knowledge-Based Systems (KBS)*!
+* **[2026.01]** One paper on cross-modal knowledge distillation was accepted by *Knowledge-Based Systems (KBS)*!
 * **[2025.09]** Our paper "pFedMLKD" was accepted by *IEEE Internet of Things Journal (IOTJ)*!
 
 ---
