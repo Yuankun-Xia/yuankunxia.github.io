@@ -27,7 +27,7 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    <br>
    **Yuankun Xia**, Hui Wang*, and Yufeng Zhou.
    <br>
-   *Knowledge-Based Systems* (**KBS**), 2026. 
+   **Knowledge-Based Systems** (**KBS**), 2026. 
    \[[PDF](#)\]
    
 * **MMC-CS: Multi-branch multi-stage contrastive learning for self-supervised compressed sensing**
@@ -35,14 +35,14 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    Yiteng Zhang, Hui Wang*, and **Yuankun Xia**.
    <br>
    **Neural Networks** (**NN**), 2026. 
-   \[[PDF](#)\]
+   \[[PDF](https://yuankunx.github.io/document/FedCLIP-Distill Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition.pdf)\]
   
 * **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
    <br>
    **Yuankun Xia**, Hui Wang*, Di Yin, Yiteng Zhang, and Qian Huang.
    <br>
    **IEEE Internet of Things Journal** (**IOTJ**), 2025.
-   \[[PDF](https://yuankunx.github.io/document/pFedMLKD%20A%20Novel%20Framework%20for%20Personalized%20Federated%20Learning%20via%20Multilevel%20Distillation.pdf)\]
+   \[[PDF](https://yuankunx.github.io/document/pFedMLKD A Novel Framework for Personalized Federated Learning via Multilevel Distillation.pdf)\]
 
 
 
