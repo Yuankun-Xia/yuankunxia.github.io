@@ -35,14 +35,14 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    Yiteng Zhang, Hui Wang*, and **Yuankun Xia**.
    <br>
    **Neural Networks** (**NN**), 2026. 
-   \[[PDF](https://yuankunx.github.io/document/FedCLIP-Distill Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition.pdf)\]
+   \[[PDF](https://yuankunx.github.io/document/FedCLIP-Distill%20Heterogeneous%20federated%20cross-modal%20knowledge%20distillation%20for%20multi-domain%20visual%20recognition.pdf)\]
   
 * **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
    <br>
    **Yuankun Xia**, Hui Wang*, Di Yin, Yiteng Zhang, and Qian Huang.
    <br>
    **IEEE Internet of Things Journal** (**IOTJ**), 2025.
-   \[[PDF](https://yuankunx.github.io/document/pFedMLKD A Novel Framework for Personalized Federated Learning via Multilevel Distillation.pdf)\]
+   \[[PDF](https://yuankunx.github.io/document/pFedMLKD%20A%20Novel%20Framework%20for%20Personalized%20Federated%20Learning%20via%20Multilevel%20Distillation.pdf)\]
 
 
 
