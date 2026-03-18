@@ -42,37 +42,11 @@ distillation for multi-domain visual recognition</u></i>. <font color="green">KB
 </details>
 
 
-<br />
-
-<details open>
-  <summary><font size="6"><b>PrePrint</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
-  <p>
-    <ol>
-
-
-
-</ol>
-
-  </p>
-</details>
-
-<br />
-
-
-<details open>
-  <summary><font size="6"><b>Project</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
-  <p>
-    <ol>
-
-  
 
 
 
 
 
-</ol>
-  </p>
-</details>
 
 
 
