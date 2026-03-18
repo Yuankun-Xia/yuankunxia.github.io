@@ -35,7 +35,6 @@ distillation for multi-domain visual recognition</u></i>. <font color="green">KB
   <p>
     <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICME' 1]</b></font> Shihao Dong, Xiaotong Zhou, Yuhui Zheng, Huiying Xu*, <b>Xinzhong Zhu</b>: <i><u>Center-Oriented Prototype Contrastive Clustering</u></i>. <font color="green">ICME 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Center-Oriented Prototype Contrastive Clustering.pdf">[PDF]</a> </li></p>
 
 
 </ol>
