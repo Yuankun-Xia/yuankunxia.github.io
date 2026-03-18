@@ -29,7 +29,8 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    <br>
    *Knowledge-Based Systems* (**KBS**), 2026. 
    <br>
-   \[[PDF](#)\] 2. **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
+   \[[PDF](#)\]
+2. **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
    <br>
    **Yuankun Xia**, Hui Wang*, Di Yin, Yiteng Zhang, and Qian Huang.
    <br>
