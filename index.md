@@ -21,8 +21,6 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 
 ## Publications
 
-*Note: **bold** indicates the author, \* indicates the corresponding author.*
-
 ### Journal Papers
 
 1. **FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition**
