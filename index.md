@@ -79,7 +79,5 @@ distillation for multi-domain visual recognition</u></i>. <font color="green">KB
 <br />
 
 
-<font size="6"><b>Brief Bio:</b></font>
-
 
 
