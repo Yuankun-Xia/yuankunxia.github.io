@@ -1,57 +1,51 @@
 ---
 layout: page
-<title>Yuankun Xia: Homepage</title>
+title: Yuankun Xia's Homepage
 ---
 
-<font size="6"><b>Contact Information:</b></font>
+## About Me
 
+I am currently a Master student at Zhejiang Normal University, Jinhua, China. 
 
-Yuankun Xia
+My research interests generally lie in **Federated Learning**, **Wireless Communications**, and **Artificial Intelligence**. I am particularly focused on exploring personalized federated learning frameworks and cross-modal knowledge distillation to solve multi-domain challenges.
 
-Please drop me a message by email: <u>yuankunx@zjnu.edu.cn</u>
+You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 
+---
 
-<details open>
-  <summary><font size="6"><b>Selected Journal Papers</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
-  <p>
-  <ol>
+## News
+* **[2026.03]** One paper on cross-modal knowledge distillation was accepted by *Knowledge-Based Systems (KBS)*!
+* **[2025.09]** Our paper "pFedMLKD" was accepted by *IEEE Internet of Things Journal (IOTJ)*!
 
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IOTJ]</b></font> <b>Yuankun Xia</b>, Hui Wang*, Di Yin, Yiteng Zhang and Qian Huang: <i><u>pFedMLKD: A Novel Framework for Personalized
-Federated Learning via Multilevel Distillation</u></i>. <font color="green">IOTJ 2025</font>. <a href = "https://yuankunx.github.io/document/pFedMLKD A Novel Framework for Personalized Federated Learning via Multilevel Distillation.pdf">[PDF]</a> </li></p>
+---
 
-  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[KBS]</b></font> <b>Yuankun Xia</b>, Hui Wang*, and Yufeng Zhou: <i><u>FedCLIP-Distill: Heterogeneous federated cross-modal knowledge
-distillation for multi-domain visual recognition</u></i>. <font color="green">KBS 2026</font>. <a href = "https://yuankunx.github.io/document/pFedMLKD A Novel Framework for Personalized Federated Learning via Multilevel Distillation.pdf">[PDF]</a> </li></p>
+## Publications
 
+*Note: **bold** indicates the author, \* indicates the corresponding author.*
 
-</ol>
+### Journal Papers
 
-  </p>
-</details>
+1. **FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition**
+   <br>
+   **Yuankun Xia**, Hui Wang*, and Yufeng Zhou.
+   <br>
+   *Knowledge-Based Systems* (**KBS**), 2026. 
+   <br>
+   \[[PDF](#)\] 2. **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
+   <br>
+   **Yuankun Xia**, Hui Wang*, Di Yin, Yiteng Zhang, and Qian Huang.
+   <br>
+   *IEEE Internet of Things Journal* (**IOTJ**), 2025.
+   <br>
+   \[[PDF](https://yuankunx.github.io/document/pFedMLKD%20A%20Novel%20Framework%20for%20Personalized%20Federated%20Learning%20via%20Multilevel%20Distillation.pdf)\] 
 
-<br />
+### Conference Papers
 
-<details open>
-  <summary><font size="6"><b>Selected Conference Papers</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
-  <p>
-    <ol>
+*(即将更新 / Coming soon)*
+* 积极准备 IEEE GLOBECOM / INFOCOM 等顶级会议的投稿工作中...
 
+---
 
+## Education
 
-</ol>
-  </p>
-</details>
-
-
-
-
-
-
-
-
-
-
-<br />
-
-
-
-
+* **Master's Degree**, Zhejiang Normal University, China.
