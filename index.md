@@ -39,8 +39,7 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 
 ### Conference Papers
 
-*(即将更新 / Coming soon)*
-* 积极准备 IEEE GLOBECOM / INFOCOM 等顶级会议的投稿工作中...
+* Coming soon*
 
 ---
 
