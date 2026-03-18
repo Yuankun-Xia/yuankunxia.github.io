@@ -48,7 +48,6 @@ distillation for multi-domain visual recognition</u></i>. <font color="green">KB
   <summary><font size="6"><b>PrePrint</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
   <p>
     <ol>
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ArXiv' 1]</b></font> Yunzhong Si, Huiying Xu*, <b>Xinzhong Zhu</b>*, Wenhao Zhang, Yao Dong, Yuxing Chen, Hongbo Li: <i><u>SCSA: Exploring the Synergistic Effects Between Spatial and Channel Attention</u></i>. <font color="green">ArXiv</font> 2024. <a href = "https://arxiv.org/pdf/2407.05128v1">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/SCSA">[Code]</a></li></p>
 
 
 
