@@ -1,8 +1,3 @@
----
-layout: page
-title: Yuankun Xia's Homepage
----
-
 ## About Me
 
 I am currently a Master student at Zhejiang Normal University, Jinhua, China. 
