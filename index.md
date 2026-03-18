@@ -28,15 +28,13 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    **Yuankun Xia**, Hui Wang*, and Yufeng Zhou.
    <br>
    *Knowledge-Based Systems* (**KBS**), 2026. 
-   <br>
-   \[[PDF](#)\]
+   <br>\[[PDF](#)\]
 2. **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
    <br>
    **Yuankun Xia**, Hui Wang*, Di Yin, Yiteng Zhang, and Qian Huang.
    <br>
    *IEEE Internet of Things Journal* (**IOTJ**), 2025.
-   <br>
-   \[[PDF](https://yuankunx.github.io/document/pFedMLKD%20A%20Novel%20Framework%20for%20Personalized%20Federated%20Learning%20via%20Multilevel%20Distillation.pdf)\] 
+   <br>\[[PDF](https://yuankunx.github.io/document/pFedMLKD%20A%20Novel%20Framework%20for%20Personalized%20Federated%20Learning%20via%20Multilevel%20Distillation.pdf)\] 
 
 ### Conference Papers
 
