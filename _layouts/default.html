@@ -12,25 +12,27 @@
         </h2>
         <p class="tagline">{{ site.plainwhite.tagline }}</p>
         
-        <ul class="social">
-          <li itemprop="email" aria-label="Email: yuankunx@zjnu.edu.cn" class="vcard-detail pt-1 css-truncate css-truncate-target">
-            <svg class="octicon octicon-mail" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 4v8c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1H1c-.55 0-1 .45-1 1zm13 0L7 9 1 4h12zM1 5.5l4 3-4 3v-6zM2 12l3.5-3L7 10.5 8.5 9l3.5 3H2zm11-.5l-4-3 4-3v6z"></path></svg>
-            <a class="u-email " href="mailto:yuankunx@zjnu.edu.cn">yuankunx@zjnu.edu.cn</a>
+        <ul class="social" style="display: flex; flex-direction: column; gap: 12px; padding: 0; margin: 0; list-style: none;">
+          
+          <li itemprop="email" aria-label="Email: yuankunx@zjnu.edu.cn" style="display: flex; align-items: center;">
+            <svg class="octicon octicon-mail" style="margin-right: 8px; flex-shrink: 0;" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 4v8c0 .55.45 1 1 1h12c.55 0 1-.45 1-1V4c0-.55-.45-1-1-1H1c-.55 0-1 .45-1 1zm13 0L7 9 1 4h12zM1 5.5l4 3-4 3v-6zM2 12l3.5-3L7 10.5 8.5 9l3.5 3H2zm11-.5l-4-3 4-3v6z"></path></svg>
+            <a class="u-email" href="mailto:yuankunx@zjnu.edu.cn" style="word-break: break-all;">yuankunx@zjnu.edu.cn</a>
           </li>
           
-          <li class="vcard-detail pt-1 css-truncate css-truncate-target">
-            <svg class="octicon" viewBox="0 0 16 16" version="1.1" width="14" height="16" aria-hidden="true">
+          <li style="display: flex; align-items: center;">
+            <svg class="octicon" style="margin-right: 8px; flex-shrink: 0;" viewBox="0 0 16 16" version="1.1" width="14" height="16" aria-hidden="true">
               <path fill-rule="evenodd" d="M8 0L0 6l1.5 1.125L8 2.25l6.5 4.875L16 6 8 0zm-5.5 8.375L2 8v5.5h1.5v-5.125zM8 14.5c-2.484 0-4.5-1.5-4.5-3.5S5.516 7.5 8 7.5s4.5 1.5 4.5 3.5-2.016 3.5-4.5 3.5z"></path>
             </svg>
             <a href="https://scholar.google.com.hk/citations?user=qL_lmbQAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a>
           </li>
 
-          <li class="vcard-detail pt-1 css-truncate css-truncate-target">
-            <svg class="octicon" viewBox="0 0 24 24" version="1.1" width="14" height="16" aria-hidden="true">
+          <li style="display: flex; align-items: center;">
+            <svg class="octicon" style="margin-right: 8px; flex-shrink: 0;" viewBox="0 0 24 24" version="1.1" width="14" height="16" aria-hidden="true">
               <path fill-rule="evenodd" d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-4.72 17.342h-2.14V8.412h2.14v8.93zM6.21 7.21a1.24 1.24 0 1 1 0-2.481 1.24 1.24 0 0 1 0 2.48zm11.233 6.132c0 2.65-1.402 4.02-3.896 4.02H9.86V8.412h3.585c2.472 0 3.998 1.488 3.998 3.97v.96zm-2.143-.193c0-1.503-.797-2.13-2.112-2.13h-1.28v4.542h1.378c1.232 0 2.014-.666 2.014-2.096v-.316z"></path>
             </svg>
             <a href="https://orcid.org/0009-0008-5840-9163" target="_blank">ORCID</a>
           </li>
+          
         </ul>      
 
         {%- if site.plainwhite.navigation -%}
