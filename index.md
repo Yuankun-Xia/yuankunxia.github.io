@@ -28,21 +28,21 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    **Yuankun Xia**, Hui Wang*, and Yufeng Zhou.
    <br>
    **Knowledge-Based Systems** (**KBS**), 2026. 
-   \[[PDF])\]
+    [PDF]
    
 * **MMC-CS: Multi-branch multi-stage contrastive learning for self-supervised compressed sensing**
    <br>
    Yiteng Zhang, Hui Wang*, and **Yuankun Xia**.
    <br>
    **Neural Networks** (**NN**), 2026. 
-   \[[PDF])\]
+   [PDF]
   
 * **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
    <br>
    **Yuankun Xia**, Hui Wang*, Di Yin, Yiteng Zhang, and Qian Huang.
    <br>
    **IEEE Internet of Things Journal** (**IOTJ**), 2025.
-   \[[PDF](\]
+   [PDF]
 
 
 
