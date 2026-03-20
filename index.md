@@ -23,6 +23,14 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 
 ### Journal Papers
 
+
+* **LBCM: A Scalable and DDoS-resistant Cross-domain Authentication Protocol for IIoT using Chaotic Maps and Merkle Tree**
+     <br>
+   Yu Huang, Maode Ma, Hui Wang, **Yuankun Xia**, Yinjuan Shi.
+   <br>
+   **IEEE Internet of Things Journal** (**IOTJ**), 2026. 
+    [PDF]
+
 * **FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition**
    <br>
    **Yuankun Xia**, Hui Wang*, and Yufeng Zhou.
