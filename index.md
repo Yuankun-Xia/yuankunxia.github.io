@@ -29,21 +29,21 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    Yu Huang, Maode Ma, Hui Wang*, **Yuankun Xia**, Yinjuan Shi.
    <br>
    **IEEE Internet of Things Journal** (**IOTJ**), 2026. 
-    [PDF]
+    [Link](https://ieeexplore.ieee.org/document/11447266)
 
 * **FedCLIP-Distill: Heterogeneous federated cross-modal knowledge distillation for multi-domain visual recognition**
    <br>
    **Yuankun Xia**, Hui Wang*, and Yufeng Zhou.
    <br>
    **Knowledge-Based Systems** (**KBS**), 2026. 
-    [PDF]
+    [Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001267)
    
 * **MMC-CS: Multi-branch multi-stage contrastive learning for self-supervised compressed sensing**
    <br>
    Yiteng Zhang, Hui Wang*, and **Yuankun Xia**.
    <br>
    **Neural Networks** (**NN**), 2026. 
-   [PDF]
+   [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608025013565)
   
 * **pFedMLKD: A Novel Framework for Personalized Federated Learning via Multilevel Distillation**
    <br>
