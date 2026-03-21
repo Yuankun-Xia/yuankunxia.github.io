@@ -62,14 +62,14 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
   Yufeng Zhou, Yiteng Zhang, **Yuankun Xia**, Hui Wang*.
   <br>
   **IEEE International Conference on Multimedia & Expo**(**ICME**), 2026.
-  [PDF]
+  [Link](Coming Soon)
 
 * **A Lightweight Blockchain-Based Cross-Domain Authentication and Key Agreement Protocol for Industrial IoT**
   <br>
   Yu Huang, Maode Ma, Hui Wang*, Na Li, **Yuankun Xia**.
   <br>
   **IEEE International Conference on Communications**(**ICC**), 2026.
-  [PDF]
+  [Link](Coming Soon)
 
 ---
 
