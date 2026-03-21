@@ -50,7 +50,7 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
    **Yuankun Xia**, Hui Wang*, Di Yin, Yiteng Zhang, and Qian Huang.
    <br>
    **IEEE Internet of Things Journal** (**IOTJ**), 2025.
-   [PDF]
+   [Link](https://ieeexplore.ieee.org/document/11075835)
 
 
 
