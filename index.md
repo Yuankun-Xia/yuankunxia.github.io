@@ -58,7 +58,12 @@ You can reach me via email: [yuankunx@zjnu.edu.cn](mailto:yuankunx@zjnu.edu.cn)
 
 ### Conference Papers
 
-* Coming soon
+* **A Lightweight Blockchain-Based Cross-Domain Authentication and Key Agreement Protocol for Industrial IoT**
+  <br>
+  Yu Huang, Maode Ma, Hui Wang*, Na Li, **Yuankun Xia**.
+  <br>
+  **IEEE International Conference on Communications**(**ICC**), 2026.
+  [PDF]
 
 ---
 
